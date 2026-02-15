@@ -8,7 +8,7 @@ Orchestrated with Databricks **Jobs** (layer-by-layer + end-to-end orchestrator)
 > This repository contains the exported code/artifacts + full documentation so recruiters/engineers can review the work.
 
 ## What you'll find here
-- Full project documentation: `docs/Final_Project_AndresOlguin.pdf`
+- Full project documentation: `docs/final_project.pdf`
 - Architecture diagram: `docs/diagrams/Diagrama01.png`
 - Idempotency notes + queries: `sql/idempotency/README.md`
 - Exported notebooks/code (if present): `notebooks/`
